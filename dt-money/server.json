@@ -1,0 +1,93 @@
+{
+  "transactions": [
+    {
+      "id": "C0ighfy77rI",
+      "title": "Burguer King",
+      "type": "expense",
+      "category": "Food",
+      "price": 3900,
+      "createdAt": "2026-05-05T03:00:00Z"
+    },
+    {
+      "id": "C0ighfy77r2",
+      "title": "McDonalds",
+      "type": "income",
+      "category": "Food",
+      "price": 69,
+      "createdAt": "2026-05-05T04:00:00Z"
+    },
+    {
+      "title": "Uber",
+      "price": 29,
+      "category": "Transport",
+      "type": "expense",
+      "createdAt": "2026-05-07T02:28:02.178Z",
+      "id": "wjUt8ca0Df0"
+    },
+    {
+      "title": "Pizza",
+      "price": 59,
+      "category": "Food",
+      "type": "expense",
+      "createdAt": "2026-05-07T02:35:33.919Z",
+      "id": "7lkzp5YhaDo"
+    },
+    {
+      "title": "Asjklhdsa",
+      "price": 345,
+      "category": "dsad",
+      "type": "income",
+      "createdAt": "2026-05-07T02:36:38.177Z",
+      "id": "GrzflzEfrzg"
+    },
+    {
+      "title": "sdfsdf",
+      "price": 34,
+      "category": "Transport",
+      "type": "expense",
+      "createdAt": "2026-05-07T02:38:31.972Z",
+      "id": "kBooVcbPZ98"
+    },
+    {
+      "title": "Iorgute",
+      "price": 30,
+      "category": "Food",
+      "type": "expense",
+      "createdAt": "2026-05-07T02:45:34.854Z",
+      "id": "Bp4_37NFtJ4"
+    },
+    {
+      "title": "Iorgute",
+      "price": 30,
+      "category": "Food",
+      "type": "expense",
+      "createdAt": "2026-05-07T02:45:34.854Z",
+      "id": "9248rchj"
+    },
+    {
+      "title": "Iorgute",
+      "price": 30,
+      "category": "Food",
+      "type": "expense",
+      "createdAt": "2026-05-07T02:45:34.854Z",
+      "id": "askjdhfkjsd"
+    },
+    {
+      "title": "Iorgute",
+      "price": 30,
+      "category": "Food",
+      "type": "expense",
+      "createdAt": "2026-05-07T02:45:34.854Z",
+      "id": "OHBdoH8934"
+    },
+    {
+      "title": "Iorgute",
+      "price": 30,
+      "category": "Food",
+      "type": "expense",
+      "createdAt": "2026-05-07T02:45:34.854Z",
+      "id": "skdjfbh8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -27,7 +27,7 @@ export const GlobalStyle = createGlobalStyle`
 	input,
 	textarea,
 	button {
-		font-family: inherit;
+		font-family: Roboto;
 		font-size: ${({ theme }) => theme.fontSizes.md};
 		font-weight: 400;
 		line-height: 1.6;
